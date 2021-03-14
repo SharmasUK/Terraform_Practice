@@ -1,0 +1,148 @@
+Professional Summary
+
+•	DevOps Engineer with 10+ years of experience in Designing, Developing, Testing, and Implementing Devops strategies along with adopting cloud based on Microsoft Azure and Amazon Web Services (AWS).
+•	Experienced in working on DevOps/Agile operations process and tools area (Cloud Services, Code review, Build & Release management, Automation, Containerization, Incident and Change Management on Windows/Linux environments.
+•	Have strong technical background in Version control tools, Configuration Management, Continuous Integration/Deployment and Containerization/orchestration tools.
+•	Experience in implementing the Build pipeline and Release pipeline using Azure Devops.
+•	Experienced in version control systems like GIT, Azure Repos.
+•	Expertise in Ansible Playbook, YAML for Maintaining Roles, Inventory Files and Groups Variables.
+•	Experience in integrating Jenkins with various tools like Maven, Git, SonarQube and implementing CI/CD automation for creating Jenkins pipelines programmatically architecting Jenkins Clusters and troubleshooting the build issues during build process.
+•	Experienced in using software containerization platform, precisely Docker and container orchestration tool like Docker Swarm and Kubernetes.
+•	Created custom Docker images and pushed the images to Azure container registry.
+•	Experience in deploying and troubleshooting the Database and Web applications.
+•	Exposure to development and modification of SQL queries and stored procedures to meet business requirements and achieve desired performance.
+•	Experience in installing SQL server, web server like IIS and Control M application.
+•	Experience in automating the deployments using Powershell scripts.
+•	Extensively worked with build tools like MAVEN, ANT and MS build for the building of deployable artifacts (war, jar & ear) from source code.
+•	Have good knowledge in using Kubernetes architecture and creating Pods scaling up/down and deployments into cluster.
+•	Created POC on infrastructure deployments like VM’s, Storage, Load Balancers, Virtual Networks and other services Using Azure Web portal, ARM templates/Terraform as part of cloud Migration plan.
+•	Experience in Automation testing using selenium.
+•	Have exposure on Test Management and Defect tracking tools like AZURE Devops, TFS, HP-ALM, and IBM Clear Quest.
+•	Have hands on experience in scheduling tool Control-M for Batch processing.
+•	Having excellent debugging skills and deploying the code for every release.
+•	Experience in Agile Scrum activities (Sprint Planning, Daily Stand Ups, Refinement, Reviews & Retrospective meetings) and worked under tight deadlines with pressure and less documentation.
+•	Highly motivated team player with good communication, analytical and organizational skills.
+•	Worked as Point of contact for production servers and provided 24X7 support for production servers and upgrades, patching.
+
+
+
+
+Work Expertise
+•	Working as Lead consultant with ITC InfoTech Ltd from June-2013 till date.
+•	Worked as a Software developer with IBM Global Business Services from May 2011 to May-2013.
+
+Technical Skills                                                                                                                
+            
+Version control	Git, Azure repo, SVN
+Configuration tools	Ansible, Puppet
+Integration and Deploy tools	Jenkins, Azure pipelines
+Cloud services	Microsoft Azure, AWS, IBM Cloud
+Containerization management	Docker, Kubernetes
+Database management	Microsoft SQL Server, Oracle, DB2, MongoDB
+Testing tools	Selenium,  Junit, TestNG
+Reporting and ticketing tools	AZURE Devops, TFS, HP-ALM, and IBM Clear Quest, BMC
+
+Operating systems	Windows, CentOS, Ubuntu
+Batch Processing	Control M
+Languages	Core Java, C++, Python, Powershell, YAML,HCL
+Web/Application Servers	 IIS,  Apache Tomcat
+Methodologies	Agile, Scrum, Waterfall
+         
+Certifications:
+•	Microsoft Certified Azure Fundamentals
+•	IBM certified Docker Essentials and Kubernetes
+
+Professional Experience                                                                                                            
+
+Project#1:
+
+Role: DevOps Engineer										March 2017– Present 
+Client: Intelligent processing solutions ltd (UK), Northampton, England.
+Company: ITC Infotech ltd (UK), Milton Keynes.
+
+Environment:   Microsoft Azure, Azure DevOps, Azure Repos, GIT, Ansible, PowerShell, Docker, Microsoft SQL Server, Jenkins, Control M, IIS Server, SSIS packages, Visual Studio.
+
+Responsibilities: 
+
+•	Performed the deployment of Release to various QA & UAT environments.
+•	Supported QA/UAT teams post deployment.
+•	Created CI/CD – Pipelines using Jenkins for .NET and JAVA based web applications for QA Automation team.
+•	Automated build and release process (CI/CD) using Azure DevOps with azure pipelines for QA – Environments.
+•	Configured SonarQube to check code errors, code duplication and code quality as part of build process.
+•	Creating the Approval and gates for Pre/Post Deployments using Release pipelines.
+•	Building the Docker image of the application and push the image to the ACR (Azure Container Registry).
+•	Automated the deployments using the powershell script which has cut the installation time by 30%.
+•	Creating the browser certificates on servers using Ansible across the servers.
+•	Monitoring Memory utilization, Disk utilization and various other factors which are important for deployment.
+•	Working on Azure DevOps to create test plans, to report bugs & to track defects.
+•	Provided 24X7 support to production servers also to offshore team and systems and was involved in creating documentation.
+Project#2:
+
+Role: Test Lead											Jan 2014– Feb 2017 
+Client: United Health Group (USA).
+Company: ITC Infotech lndia Ltd (Bangalore)
+
+Environment:   Selenium Webdriver, GIT, Java, TestNG, SQL Server, Jenkins, Maven.
+
+Responsibilities:
+
+•	Led a team of 4-6 team members.
+•	Developed test strategy, test plans, test cases, test scripts, and test reports on multiple projects.
+•	Preparation of Effort and Schedule Estimations.
+•	Test Strategy and Test Plan preparation & obtain sign-off from stakeholders.
+•	Requirement analysis and preparation of Requirements Traceability Matrix (RTM) leading up to Test Scope finalization.
+•	Conduct workshops to review functional and technical requirements with key stakeholders (Business, Functional & Technical Architects).
+•	Review of Test Scripts - Test Conditions and Test Steps against signed-off project documents such as Use Cases, Functional and Technical requirement documents.
+•	Monitor and Tracking Testing progress - Daily, Weekly and Monthly status reporting to internal and external project and organizational stakeholders.
+•	Accountability for overall Testing status and defect management for SIT & UAT teams across projects.
+•	Maintaining quality metrics to manage internal KPIs and SLAs.
+•	Obtain business sign-off to facilitate test closure & code promotion to Production.
+•	Supporting BAU requests for testing requirements.
+•	Documenting defects and assists with classification, tracking, retesting, and resolution as required.
+
+
+Project # 3
+
+Role: Senior QA Analyst										Jun 2013– Dec 2013 
+Client: United Health Group (USA)
+Company: ITC Infotech lndia Ltd (Bangalore)
+
+Responsibilities:
+
+•	Analyzing and understanding the requirements specifications and writing test scenarios
+•	Executing test cases manually as per the test scenarios
+•	Performing Regression Testing
+•	Detecting the defects and logging them in Quality Center
+•	Participation in walkthrough meetings
+•	Proficient in using project related tools like HP-ALM and CPW(Sybase Application)
+•	Giving knowledge sharing sessions to all the other team members
+•	Responsible for updating Daily status report
+•	Providing Trainings to new joiners on COSMOS and Healthcare 
+•	Helping the team mates in execution
+•	Interacting with SA’s regarding any issues
+
+Project # 4
+Organization                            :	IBM India Pvt Ltd, Bangalore.
+Client			        :	Express Scripts, USA.
+Title			        :	POS (Point of Sale)
+Project Domain	                       :  	Healthcare-PBM Services
+Duration        		        :	May 2011 – May-2013.
+
+Description:
+
+Express Scripts is the Pharmacy Benefit manager which is expert in handling millions of prescriptions each year through home delivery from the Express Scripts Pharmacy and at retail pharmacies.
+It makes the use of prescription drugs safer and more affordable for ten millions of consumers through thousands of employers, government, union and health plans.
+
+Environment:    COBOL, JCL, DB2, CICS, TSG, CQ, File Master, Endeavour.
+
+Roles & Responsibilities:      
+
+•	Test Analyst responsible for Requirement analysis, Preparation of Test Scenario/Test Script/Test Results document, and test execution activities on all projects involving Mainframe and Web based applications testing. 
+•	Attending Daily Status Calls with Business and Development and Discussing about QA Issues. 
+•	Automating the regular regression test scenarios as a part of strength assignment using Selenium Web-Driver.
+
+EDUCATION:
+
+•	B.Tech in Electronics and Communications Engineering from JNTU, Hyderabad.
+
+x
